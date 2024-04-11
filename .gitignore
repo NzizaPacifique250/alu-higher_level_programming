@@ -1,0 +1,5 @@
+# Ignore the auto-push folder
+auto-push/
+
+# Ignore the auto_push.py script
+auto_push.py
